@@ -1,0 +1,28 @@
+{
+  "name": "shopify-debut",
+  "version": "1.0.0",
+  "description": "Shopify Debut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronaldanasco/Shopify-Debut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronaldanasco/Shopify-Debut/issues"
+  },
+  "homepage": "https://github.com/Ronaldanasco/Shopify-Debut#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.43.4"
+  },
+  "dependencies": {
+    "@shopify/themekit": "^1.1.9",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^5.0.0"
+  }
+}
